@@ -15,7 +15,7 @@ Atualmente estou interessado em aprender mais sobre Java, c++, R😇
 <a href="https://github.com/LeonardoBusculo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/leo.busculo/" target="_blank">
+<a <b>href="https://www.instagram.com</b>/leo.busculo/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href ="https://www.linkedin.com/in/leonardo-busculo-rodrigues/" target="_blank">
