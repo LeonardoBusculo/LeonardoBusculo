@@ -15,13 +15,13 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeonardoBusculo&show_icons=true&count_private=true&hide_border=true&title_color=00BFFFC&icon_color=E8E5BC&text_color=c9d1d9&bg_color=87CEFA" alt="Leonardo Busculo github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeonardoBusculo&show_icons=true&count_private=true&hide_border=true&title_color=00BFFFC&icon_color=E8E5BC&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Busculo github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBusculo&layout=compact&hide_border=true&title_color=87CEFAC&text_color=E8E5BC&bg_color=0d1117" />
 </div>
 
 <br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoBusculo&bg_color=F9F6D3&color=2d2d2d&line=7d7d7d&point=2d2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoBusculo&bg_color=87CEFA7&color=2d2d2d&line=7d7d7d&point=2d2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
