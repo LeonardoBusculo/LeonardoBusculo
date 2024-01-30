@@ -44,7 +44,7 @@
 <div align="center">
   <h3>Conhecimentos → Front-end</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sql)](https://skillicons.dev)
 </div>
 
 <hr>
@@ -52,7 +52,7 @@
 <div align="center">
   <h3>Conhecimentos → Back-end</h3>
  
-  [![My Skills](https://skillicons.dev/icons?i=python,arduino,cpp,java,javascript,sklearn)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,arduino,cpp,java,sklearn)](https://skillicons.dev)
 </div>
 
 <hr>
