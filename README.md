@@ -43,7 +43,7 @@
 <div align="center">
   <h3>Main skills → Front-end</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,python, sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,sql)](https://skillicons.dev)
 </div>
 
 <hr>
