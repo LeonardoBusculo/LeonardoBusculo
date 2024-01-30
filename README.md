@@ -6,7 +6,7 @@
 <div align="center">
   <br>
   <p align="center">
-    <b>Visitors</b>
+    <b>Visitantes</b>
   </p>  
   <p align="center">
     <img align="center" src="https://profile-counter.glitch.me/{LeonardoBusculo}/count.svg" />
