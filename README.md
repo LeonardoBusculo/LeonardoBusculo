@@ -51,7 +51,7 @@
 <div align="center">
   <h3>Main skills → Back-end</h3>
  
-  [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,javascript)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,arduino,cpp,java,javascript,sklearn)](https://skillicons.dev)
 </div>
 
 <hr>
@@ -59,7 +59,7 @@
 <div align="center">
   <h3>Studying in this moment:</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=sql,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,r)](https://skillicons.dev)
 </div>
 
 <hr>
