@@ -78,9 +78,6 @@
   [![My Skills](https://skillicons.dev/icons?i=github,vscode,raspberrypi)](https://skillicons.dev)
 </div>
 
-<hr>
-<hr>
-
 <div align="center">
   Apaixonado por tecnologia, Análise de Dados, Estatística e programação, estou a disposição para contribuir com outras pessoas. 👨‍💻 
 </div>
