@@ -91,7 +91,7 @@
 <hr>
 
 <div align="center">
-  Passionate about programming, technology and contributing to the lives of others. 👨‍💻
+  Apaixonado por tecnologia, Análise de Dados, Estatística e programação, estou a disposição para contribuir com outras pessoas. 👨‍💻 
 </div>
 
 <hr>
