@@ -59,7 +59,7 @@
 <div align="center">
   <h3>Studying in this moment:</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=redux,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=sql,mysql)](https://skillicons.dev)
 </div>
 
 <hr>
