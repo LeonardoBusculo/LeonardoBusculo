@@ -30,7 +30,7 @@
 </p>
 
 <div align="center"> 
-  <a href = "mailto:contatoleonardobusculo@gmail.com">
+  <a href = "mailto:leonardobusculo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/leonardo-busculo-rodrigues/" target="_blank">
@@ -43,7 +43,7 @@
 <div align="center">
   <h3>Main skills → Front-end</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,sass,tailwind,bootstrap,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,python, sql)](https://skillicons.dev)
 </div>
 
 <hr>
