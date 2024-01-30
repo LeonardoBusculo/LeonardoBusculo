@@ -41,7 +41,7 @@
 <hr>
 
 <div align="center">
-  <h3>Main skills → Front-end</h3>
+  <h3>Conhecimentos → Front-end</h3>
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,sql)](https://skillicons.dev)
 </div>
@@ -49,7 +49,7 @@
 <hr>
 
 <div align="center">
-  <h3>Main skills → Back-end</h3>
+  <h3>Conhecimentos → Back-end</h3>
  
   [![My Skills](https://skillicons.dev/icons?i=python,arduino,cpp,java,javascript,sklearn)](https://skillicons.dev)
 </div>
@@ -57,7 +57,7 @@
 <hr>
 
 <div align="center">
-  <h3>Studying in this moment:</h3>
+  <h3>Estudando no momento:</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=mysql,r)](https://skillicons.dev)
 </div>
@@ -65,29 +65,20 @@
 <hr>
 
 <div align="center">
-  <h3>My Design tools</h3>
+  <h3>My Ferramentas de Design</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=ps,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=autocad,visualstudio)](https://skillicons.dev)
 </div>
 
 <hr>
 
 <div align="center">
-  <h3>My Programming tools</h3>
+  <h3>My Ferramentas de programação</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=postman,git,github,vercel,vite,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,vscode,raspberrypi)](https://skillicons.dev)
 </div>
 
 <hr>
-
-<div style="display: inline_block" align="center">
-  <h3>Anothers</h3>
-  <img align="center" alt="Leo-Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"> -
-  <img align="center" alt="Leo-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">-
-  <img align="center" alt="Leo-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">-
-  <img align="center" alt="Leo-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-</div>
-
 <hr>
 
 <div align="center">
