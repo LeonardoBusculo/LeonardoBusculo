@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9F6D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leonardo+Busculo;I'm+20+years+old;I'm+a+Data+Analyst;I'm+from+Brazil;I'm+an+eternal+programming+student;The+future+is+today;Be+Welcome!+:%29)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Leonardo+Busculo;Tenho+20+anos;I'm+a+Data+Analyst;I'm+from+Brazil;I'm+an+eternal+programming+student;The+future+is+today;Be+Welcome!+:%29)](https://git.io/typing-svg)<br>
 
 
 <div align="center">
@@ -65,7 +65,7 @@
 <hr>
 
 <div align="center">
-  <h3>My Ferramentas de Design</h3>
+  <h3>Ferramentas de Design</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=autocad,visualstudio)](https://skillicons.dev)
 </div>
@@ -73,7 +73,7 @@
 <hr>
 
 <div align="center">
-  <h3>My Ferramentas de programação</h3>
+  <h3>Ferramentas de programação</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=github,vscode,raspberrypi)](https://skillicons.dev)
 </div>
