@@ -21,7 +21,7 @@ username=LeonardoBusculo&layout=compact&hide_border=true&title_color=87CEFAC&tex
 
 <br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoBusculo&bg_color=87CEEB&color=2d2d2d&line=191970&point=2d2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoBusculo&bg_color=87CEEB&color=2d2d2d&line=7d7d7d&point=2d2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr>
 
 <p align="center">
